@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=RadonCoding&repo=RadonCoding&countColor=ff0000)
+
 <h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
