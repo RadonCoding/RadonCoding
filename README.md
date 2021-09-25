@@ -1,5 +1,5 @@
 <span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" /></a>
+<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" /></a>
 </span>
 
 <h1 align="center">Hello there! 👋</h1>
