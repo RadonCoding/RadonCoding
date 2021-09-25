@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor count&color=ff0000&style=flat" />
 <h1 align="center">Hello there! 👋</h1>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&layout=compact&show_icons=true&title_color=fff&icon_color=ff0000&text_color=9f9f9f&bg_color=151515"/>
