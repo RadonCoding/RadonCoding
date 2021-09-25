@@ -1,5 +1,3 @@
-<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" /></a>
-
 <h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
@@ -8,4 +6,4 @@
 </p>
 
 ## Donating
-BTC: bc1q9c2qte2z3gxv6fc90lf0278xsylfajg8azluyp
+<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" /></a>
