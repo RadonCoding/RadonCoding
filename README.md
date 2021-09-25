@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&layout=compact&show_icons=true&title_color=fff&icon_color=ff0000&text_color=9f9f9f&bg_color=151515"/>
-<img align="center" img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=ff0000&text_color=9f9f9f&bg_color=151515"/>
-  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=thelinuxuser-choice&theme=darcula&hide_border=true&background=FFFFFF00">
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxuser-choice&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=thelinuxuser-choice&theme=darcula&hide_border=true&background=FFFFFF00">
