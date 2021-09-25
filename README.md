@@ -6,4 +6,4 @@
 </p>
 
 <h2 align="center">Donating</h2>
-<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+<a href="https://ko-fi.com/RadonCoding" title="Donate to me using Buy Me A Coffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
