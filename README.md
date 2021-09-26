@@ -4,6 +4,7 @@
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
 <b>Radon#2457</b>
 <br/>
+<br/>
 
 <details>
   <summary>GitHub Stats</summary>
