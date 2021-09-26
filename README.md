@@ -1,4 +1,4 @@
-<h1>Hello there i'm RadonCoding 👋</h1>
+<h1 align="center">Hello there i'm RadonCoding 👋</h1>
 
 <details>
   <summary>GitHub Stats</summary>
