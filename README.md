@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][Radon#2457]
 <br/>
 
 <details>
