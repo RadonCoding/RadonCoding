@@ -1,11 +1,5 @@
 ### Hello there i'm RadonCoding 👋
 
-### Connect with me:
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
-<b>Radon#2457</b>
-<br/>
-<br/>
-
 <details>
   <summary>GitHub Stats</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadonCoding&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=ff0000&text_color=9f9f9f&bg_color=00000000" />
