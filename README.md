@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitors&color=292f33&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=visitors&color=292f33&style=flat" />
 
 <h1 align="center">Hello there 👋</h1>
 
