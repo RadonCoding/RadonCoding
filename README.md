@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=visitors&color=292f33&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Number of visitors&color=292f33&style=flat"/>
 <img src="https://dcbadge.vercel.app/api/shield/705767051586830419"/>
 
 <h1 align="center">Hello there 👋</h1>
