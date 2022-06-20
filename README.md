@@ -1,6 +1,6 @@
 <p align="left">
+    <img src="https://dcbadge.vercel.app/api/shield/705767051586830419"/>
   <img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor count&color=292f33&style=flat"/>
-  <img src="https://dcbadge.vercel.app/api/shield/705767051586830419"/>
 </p>
 
 <h1 align="center">Hello there 👋</h1>
