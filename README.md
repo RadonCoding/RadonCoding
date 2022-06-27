@@ -14,9 +14,25 @@
   </p>
 </details>
 
-## Donating
-BTC: `bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady`
+## Donate
 
-ETH: `0x1DC20DB2985b14cA483071c29dC0eDdCbF100019`
+<details>
+    <summary>
+        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/btc-logo.png" width="16" height="16"> Bitcoin
+    </summary>
+    <br>bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady
+</details>
 
-LTC: `LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc`
+<details>
+    <summary>
+        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/eth-logo.png" width="16" height="16"> Ethereum
+    </summary>
+    <br>0x1DC20DB2985b14cA483071c29dC0eDdCbF100019
+</details>
+
+<details>
+    <summary>
+        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/ltc-logo.png" width="16" height="16"> Litecoin
+    </summary>
+    <br>LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
+</details>
