@@ -21,6 +21,7 @@
         <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/btc-logo.png" width="16" height="16"> Bitcoin
     </summary>
     <br>bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady
+      <br><img src="assets/btc-qr.png"><br>
 </details>
 
 <details>
@@ -28,6 +29,7 @@
         <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/eth-logo.png" width="16" height="16"> Ethereum
     </summary>
     <br>0x1DC20DB2985b14cA483071c29dC0eDdCbF100019
+    <br><img src="assets/etc-qr.png"><br>
 </details>
 
 <details>
@@ -35,4 +37,5 @@
         <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/ltc-logo.png" width="16" height="16"> Litecoin
     </summary>
     <br>LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
+    <br><img src="assets/ltc-qr.png"><br>
 </details>
