@@ -4,7 +4,6 @@
 </p>
 
 <h2>Hi, I'm RadonCoding 👋</h2>
-<h3>Reverse engineer and a developer</h3>
 
 <details>
   <summary>Statistics</summary>
