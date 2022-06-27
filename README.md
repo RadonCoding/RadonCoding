@@ -6,13 +6,6 @@
 <h1>Hello there 👋</h1>
 
 <details>
-  <summary>Donating</summary>
-   <label>BTC: bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady</label></br>
-  <label>ETH: 0x1DC20DB2985b14cA483071c29dC0eDdCbF100019</label></br>
-  <label>LTC: LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc</label></br>
-</details>
-
-<details>
   <summary>Statistics</summary>
   
   <p align="center">
@@ -20,3 +13,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&hide_border=true&layout=compact&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=00000000" />
   </p>
 </details>
+
+## Donating
+BTC: `bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady`
+ETH: `0x1DC20DB2985b14cA483071c29dC0eDdCbF100019`
+LTC: `LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc`
