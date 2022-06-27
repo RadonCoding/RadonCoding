@@ -16,5 +16,7 @@
 
 ## Donating
 BTC: `bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady`
+
 ETH: `0x1DC20DB2985b14cA483071c29dC0eDdCbF100019`
+
 LTC: `LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc`
