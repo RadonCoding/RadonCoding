@@ -3,7 +3,8 @@
   <img src="https://dcbadge.vercel.app/api/shield/705767051586830419"/>
 </p>
 
-<h1>Hello there 👋</h1>
+<h2>Hi, I'm RadonCoding 👋</h2>
+<em>Reverse engineer and a developer</em>
 
 <details>
   <summary>Statistics</summary>
