@@ -18,24 +18,24 @@
 
 <details>
     <summary>
-        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/btc-logo.png" width="16" height="16"> Bitcoin
+        <img src="https://user-images.githubusercontent.com/86915746/175967317-514b424d-1c97-4185-ab93-f79f2a3380d0.png" width="16" height="16"> Bitcoin
     </summary>
     <br>bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady
-      <br><img src="assets/btc-qr.png"><br>
+      <br><img src="https://user-images.githubusercontent.com/86915746/175967050-5bfd7bd0-0cd2-4a2c-90f0-fdfba9239acb.png"><br>
 </details>
 
 <details>
     <summary>
-        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/eth-logo.png" width="16" height="16"> Ethereum
+        <img src="https://user-images.githubusercontent.com/86915746/175967313-554f5de4-e275-4f85-bc72-703539403d19.png" width="16" height="16"> Ethereum
     </summary>
     <br>0x1DC20DB2985b14cA483071c29dC0eDdCbF100019
-    <br><img src="assets/etc-qr.png"><br>
+    <br><img src="https://user-images.githubusercontent.com/86915746/175967044-a62ea8b0-7045-4c2d-92eb-f71abbf78a27.png"><br>
 </details>
 
 <details>
     <summary>
-        <img src="https://github.com/schmich/crypto-address-visualizer/blob/master/assets/ltc-logo.png" width="16" height="16"> Litecoin
+        <img src="https://user-images.githubusercontent.com/86915746/175967305-b0c956c1-edbc-4ef2-8bb5-a401cb3b6b5b.png" width="16" height="16"> Litecoin
     </summary>
     <br>LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
-    <br><img src="assets/ltc-qr.png"><br>
+    <br><img src="https://user-images.githubusercontent.com/86915746/175967046-4519a0a6-baf0-45d2-8c8f-8bfc329b0dc4.png"><br>
 </details>
