@@ -11,6 +11,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&hide_border=true&layout=compact&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=00000000" />
 </details>
 
+### Info
+- Currently learning reverse engineering and programming
+
 ### Donate
 
 <details>
