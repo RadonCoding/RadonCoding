@@ -8,7 +8,9 @@
 <details>
   <summary>Donating</summary>
    <label>BTC: bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady</label>
+  
   <label>ETH: 0x1DC20DB2985b14cA483071c29dC0eDdCbF100019</label>
+  
   <label>LTC: LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc</label>
 </details>
 
