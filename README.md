@@ -20,19 +20,19 @@
     <summary>
         <img src="https://user-images.githubusercontent.com/86915746/175967317-514b424d-1c97-4185-ab93-f79f2a3380d0.png" width="16" height="16"> Bitcoin
     </summary>
-    <br><b>bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady</b>
+    <b>bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady</b>
 </details>
 
 <details>
     <summary>
         <img src="https://user-images.githubusercontent.com/86915746/175967313-554f5de4-e275-4f85-bc72-703539403d19.png" width="16" height="16"> Ethereum
     </summary>
-    <br><b>0x1DC20DB2985b14cA483071c29dC0eDdCbF100019</b>
+    <b>0x1DC20DB2985b14cA483071c29dC0eDdCbF100019</b>
 </details>
 
 <details>
     <summary>
         <img src="https://user-images.githubusercontent.com/86915746/175967305-b0c956c1-edbc-4ef2-8bb5-a401cb3b6b5b.png" width="16" height="16"> Litecoin
     </summary>
-    <br><b>LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc</b>
+    <b>LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc</b>
 </details>
