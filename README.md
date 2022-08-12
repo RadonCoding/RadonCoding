@@ -18,7 +18,7 @@
 
 <details>
     <summary>
-        <img src="https://user-images.githubusercontent.com/86915746/175967317-514b424d-1c97-4185-ab93-f79f2a3380d0.png" width="16" height="16"> <a href="#" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Bitcoin</a>
+        <a href="#" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Bitcoin</a>
     </summary>
     bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady
 </details>
