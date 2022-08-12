@@ -12,7 +12,7 @@
 </details>
 
 ### Info
-- Currently learning reverse engineering and programming
+- I'm a student learning reverse engineering and programming in my free time
 
 ### Donate
 
