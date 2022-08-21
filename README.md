@@ -37,4 +37,4 @@
     LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
 </details>
 
-[](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
