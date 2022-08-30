@@ -1,6 +1,5 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor count&color=292f33&style=for-the-badge"/>
-  <img src="https://dcbadge.vercel.app/api/shield/705767051586830419"/>
 </p>
 
 <h2>Hi, I'm RadonCoding 👋</h2>
