@@ -10,12 +10,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&hide_border=true&layout=compact&show_icons=true&title_color=fff&icon_color=ffffff&text_color=c9d1d9&bg_color=00000000" />
 </details>
 
-### Info
-
 <details>
     <summary>
-        Why would i give you any info.
+        Info
     </summary>
+    Why would i give you any info.
 </details>
 
 ### Donate
