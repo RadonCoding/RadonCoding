@@ -11,7 +11,7 @@
 </details>
 
 ### Info
-- I'm a student learning reverse engineering and programming in my free time.
+- Why would i give you any info.
 
 ### Donate
 
