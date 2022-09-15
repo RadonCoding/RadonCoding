@@ -11,7 +11,12 @@
 </details>
 
 ### Info
-- Why would i give you any info.
+
+<details>
+    <summary>
+        Why would i give you any info.
+    </summary>
+</details>
 
 ### Donate
 
