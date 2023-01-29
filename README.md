@@ -26,11 +26,4 @@ Just a programmer from 🇫🇮
     0x1DC20DB2985b14cA483071c29dC0eDdCbF100019
 </details>
 
-<details>
-    <summary>
-        <img src="https://user-images.githubusercontent.com/86915746/175967305-b0c956c1-edbc-4ef2-8bb5-a401cb3b6b5b.png" width="16" height="16"> Litecoin
-    </summary>
-    LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
-</details>
-
 ![](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
