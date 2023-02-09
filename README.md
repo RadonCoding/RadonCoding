@@ -10,20 +10,4 @@ Just a programmer from 🇫🇮
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&hide_border=true&layout=compact&show_icons=true&title_color=fff&icon_color=ffffff&text_color=c9d1d9&bg_color=00000000" />
 </details>
 
-### Donate
-
-<details>
-    <summary>
-        <img src="https://user-images.githubusercontent.com/86915746/175967317-514b424d-1c97-4185-ab93-f79f2a3380d0.png" width="16" height="16"> Bitcoin
-    </summary>
-    bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady
-</details>
-
-<details>
-    <summary>
-        <img src="https://user-images.githubusercontent.com/86915746/175967313-554f5de4-e275-4f85-bc72-703539403d19.png" width="16" height="16"> Ethereum
-    </summary>
-    0x1DC20DB2985b14cA483071c29dC0eDdCbF100019
-</details>
-
 ![](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
