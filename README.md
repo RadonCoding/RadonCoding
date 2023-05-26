@@ -7,7 +7,6 @@
 <details>
   <summary>Statistics</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dracula" />
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&hide_border=true&layout=compact&show_icons=true&theme=dracula" />
 </details>
 
