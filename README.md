@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge&color=FF80BF"/>
 </p>
 
 [1337](https://radoncoding.github.io/)
