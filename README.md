@@ -4,6 +4,7 @@
 
 <details>
   <summary>Statistics</summary>
+  <br/>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="400"/>
     <br/>
