@@ -4,11 +4,9 @@
 
 <details>
 <summary>Statistics</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&count_private=true" style="width: 25rem;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadonCoding&theme=dracula&hide_border=true" style="width: 25rem;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&layout=compact" style="width: 25rem;"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadonCoding&theme=dracula&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400"/>
 </details>
 
 <img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
