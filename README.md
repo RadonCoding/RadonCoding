@@ -13,4 +13,4 @@
   </div>
 </details>
 
-<img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="400"/>
+<img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
