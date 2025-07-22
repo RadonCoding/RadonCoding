@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge&color=7E96A5" width="150"/>
+<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge&color=86B3D6" width="150"/>
 
 [1337](https://radoncoding.github.io/)
 
