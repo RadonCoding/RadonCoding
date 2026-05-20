@@ -1,0 +1,44 @@
+name: Generate
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
+    
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+        contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate contribtuions
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contributions.svg
+            dist/contributions?palette=github-dark
+      
+      - name: Generate statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: dist/statistics.svg
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Push to output
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
