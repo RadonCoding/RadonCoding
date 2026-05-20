@@ -13,9 +13,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     permissions:
         contents: write
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v6
 
