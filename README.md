@@ -1,17 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge&color=555555&abbreviated=true" width="150"/>
+<img src="https://komarev.com/ghpvc/?username=RadonCoding&label=Visitor%20count&style=for-the-badge&color=555555&abbreviated=true"/>
 
 [1337](https://radoncoding.github.io/)
 
-<details>
-  <summary>Statistics</summary>
-  <br/>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="400"/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadonCoding&theme=dracula&hide_border=true" width="400"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadonCoding&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=20" width="400"/>
-  </div>
-</details>
+[![](statistics.svg)](https://github.com/cicirello/user-statistician)
 
-<img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/contrubutions.svg#gh-dark-mode-only" />
