@@ -32,24 +32,20 @@ jobs:
           echo "width=$WIDTH" >> $GITHUB_OUTPUT
       
       - name: Generate statistics (light)
-        uses: cicirello/user-statistician@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
-          image-file: dist/statistics.svg
-          animated-language-chart: true
-          colors: '#ffffff #ffffff #4e60bd #4e60bd #000000'
-          image-width: ${{ steps.contrubutions.outputs.width }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}
+          path: dist/statistics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate statistics (dark)
-        uses: cicirello/user-statistician@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
-          image-file: dist/statistics-dark.svg
-          animated-language-chart: true
-          colors: '#0d1117 #0d1117 #4e60bd #4e60bd #ffffff'
-          image-width: ${{ steps.contrubutions.outputs.width }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}
+          path: dist/statistics-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output
         uses: crazy-max/ghaction-github-pages@v5
