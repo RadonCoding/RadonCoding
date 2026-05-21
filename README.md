@@ -1,9 +1,5 @@
 https://radoncoding.github.io
 
-[![](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/statistics.svg)](https://github.com/cicirello/user-statistician)
-
-<img src="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/contrubutions.svg#gh-dark-mode-only" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/statistics-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/statistics-light.svg" />
