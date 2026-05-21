@@ -17,6 +17,8 @@ jobs:
         contents: write
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v6
+
       - name: Generate contribtuions (light & dark)
         uses: Platane/snk/svg-only@v3
         with:
@@ -47,7 +49,8 @@ jobs:
           path: dist/statistics-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: EndBug/add-and-commit@v9
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
           add: "dist/*"
