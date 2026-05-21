@@ -31,6 +31,7 @@ jobs:
           image-file: dist/statistics-light.svg
           animated-language-chart: true
           colors: light
+          image-width: '100%'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -40,6 +41,7 @@ jobs:
           image-file: dist/statistics-dark.svg
           animated-language-chart: true
           colors: dark
+          image-width: '100%'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
