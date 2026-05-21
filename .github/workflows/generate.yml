@@ -38,6 +38,7 @@ jobs:
           animated-language-chart: true
           colors: light
           image-width: ${{ steps.contrubutions.outputs.width }}
+          show-border: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -48,6 +49,7 @@ jobs:
           animated-language-chart: true
           colors: dark
           image-width: ${{ steps.contrubutions.outputs.width }}
+          show-border: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
