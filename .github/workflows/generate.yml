@@ -22,19 +22,19 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contributions-light.svg
+            dist/contributions.svg
             dist/contributions-dark.svg?palette=github-dark
 
       - name: Get contributions width
         id: contrubutions
         run: |
-          WIDTH=$(grep -o 'width="[^"]*"' dist/contributions-light.svg | head -1 | grep -o '[0-9]*')
+          WIDTH=$(grep -o 'width="[^"]*"' dist/contributions.svg | head -1 | grep -o '[0-9]*')
           echo "width=$WIDTH" >> $GITHUB_OUTPUT
       
       - name: Generate statistics (light)
         uses: cicirello/user-statistician@v1
         with:
-          image-file: dist/statistics-light.svg
+          image-file: dist/statistics.svg
           animated-language-chart: true
           colors: light
           image-width: ${{ steps.contrubutions.outputs.width }}
