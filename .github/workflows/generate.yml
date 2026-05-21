@@ -18,12 +18,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate contribtuions
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/contributions.svg
-            dist/contributions?palette=github-dark
+            dist/contributions.svg?palette=github-dark
       
       - name: Generate statistics
         uses: cicirello/user-statistician@v1
