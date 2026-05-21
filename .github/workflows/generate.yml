@@ -24,6 +24,12 @@ jobs:
           outputs: |
             dist/contributions-light.svg
             dist/contributions-dark.svg?palette=github-dark
+
+      - name: Get contributions width
+        id: contrubutions
+        run: |
+          WIDTH=$(grep -o 'width="[^"]*"' dist/contributions-light.svg | head -1 | grep -o '[0-9]*')
+          echo "width=$WIDTH" >> $GITHUB_OUTPUT
       
       - name: Generate statistics (light)
         uses: cicirello/user-statistician@v1
@@ -31,6 +37,7 @@ jobs:
           image-file: dist/statistics-light.svg
           animated-language-chart: true
           colors: light
+          image-width: ${{ steps.contrubutions.outputs.width }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -40,6 +47,7 @@ jobs:
           image-file: dist/statistics-dark.svg
           animated-language-chart: true
           colors: dark
+          image-width: ${{ steps.contrubutions.outputs.width }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
