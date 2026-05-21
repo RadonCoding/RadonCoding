@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}&theme=default
+          options: username=${{ github.repository_owner }}&hide_border=true&theme=default&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}
           path: dist/statistics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}&theme=github_dark
+          options: username=${{ github.repository_owner }}&hide_border=true&theme=github_dark&show_icons=true&card_width=${{ steps.contrubutions.outputs.width }}
           path: dist/statistics-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
