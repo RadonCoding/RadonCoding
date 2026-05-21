@@ -47,10 +47,10 @@ jobs:
           path: dist/statistics-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output
-        uses: crazy-max/ghaction-github-pages@v5
+      - uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          default_author: github_actions
+          add: "dist/*"
+          new_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
