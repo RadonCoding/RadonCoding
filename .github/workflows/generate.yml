@@ -47,6 +47,14 @@ jobs:
           path: dist/statistics-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate statistics (dark)
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_border=true&theme=github_dark&hide_title=tru&layout=compacte&card_width=${{ steps.contrubutions.outputs.width }}&show_icons=true
+          path: dist/statistics-compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to output
         uses: crazy-max/ghaction-github-pages@v5
         with:
